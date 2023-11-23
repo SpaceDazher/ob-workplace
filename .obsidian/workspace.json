@@ -238,6 +238,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "30cf70eb12cf1fc1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -249,6 +250,16 @@
     "База знаний/Интернет/HTTP и HTTPS.md",
     "База знаний/Интернет/DNS.md",
     "База знаний/Интернет/TCP.IP.md",
+=======
+  "active": "3aa0247f5b84fa35",
+  "lastOpenFiles": [
+    "_Старт_.md",
+    "README.md",
+    "Day Planners/Day Planner-20231123.md",
+    "Day Planners",
+    "Проекты/Frontend.md",
+    "ob-workplace/README.md",
+>>>>>>> b1702deb8fe1b4eba03e6bd0d6222b256e5406e8
     "База знаний/Интернет/Как работает браузер.md",
     "ob-workplace/README.md",
     "ob-workplace/desktop.ini",
