@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ob-workplace/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ob-workplace/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ob-workplace/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ob-workplace/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -215,11 +215,14 @@
   "active": "3aa0247f5b84fa35",
   "lastOpenFiles": [
     "_Старт_.md",
+    "README.md",
+    "Проекты/Frontend.md",
+    "Day Planners/Day Planner-20231123.md",
+    "Day Planners",
     "ob-workplace/README.md",
     "База знаний/Интернет/Как работает браузер.md",
     "ob-workplace/desktop.ini",
     "Проекты/000 Проекты МОС.md",
-    "Проекты/Frontend.md",
     "ob-workplace",
     "Ядро базы/Архитектура obsidian/Методология/desktop.ini",
     "Ядро базы/Архитектура obsidian/desktop.ini",
@@ -228,12 +231,10 @@
     "База знаний/Интернет/desktop.ini",
     "Day Planners/desktop.ini",
     "Шаблоны/desktop.ini",
-    "База знаний/desktop.ini",
     "База знаний/Интернет/005 Интернет.md",
     "База знаний/Интернет/DNS.md",
     "База знаний/Интернет/HTTP и HTTPS.md",
     "База знаний/Интернет/TCP.IP.md",
-    "Day Planners/Day Planner-20231123.md",
     "Excalidraw/Drawing 2023-07-10 12.40.31.excalidraw.md",
     "Excalidraw/Drawing 2023-07-11 16.07.02.excalidraw.md",
     "Excalidraw/Drawing 2023-07-10 10.15.43.excalidraw.md",
@@ -251,7 +252,6 @@
     "База знаний/Информатика/Tkinter.md",
     "База знаний/Информатика/Label.md",
     "База знаний/Информатика/messagebox.md",
-    "База знаний/Информатика/root.md",
     "Хранилище/Visual_Studio_Code_1.35_icon.svg.png",
     "Хранилище/RoadMap UXUI Product Designer Skills.png",
     "Хранилище/png-transparent-figma-app-logo-tech-companies-thumbnail.png",
