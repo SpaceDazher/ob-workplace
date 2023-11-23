@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#2e74bd",
+    "recentlyUsedIcons": [
+      "FabGitAlt",
+      "FabCodepen",
+      "RiComputerFill",
+      "RiTaskLine",
+      "FabBuromobelexperte",
+      "RiArchiveDrawerLine"
+    ],
+    "recentlyUsedIconsSize": 6,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "_Старт_.md": "RiSafe2Line",
+  "Хранилище": "RiInboxArchiveLine",
+  "Проекты": "FabProductHunt",
+  "Календарь": "RiCalendar2Line",
+  "Дневник": "RiContactsBookFill",
+  "База знаний": "RiDatabase2Line",
+  "_Сортировка_": "RiSortDesc",
+  "Дневник/Bulet jornul.md": "RiBookOpenFill",
+  "Дневник/Расписание.md": "RiBankCardLine",
+  "Day Planners": "RiCheckboxMultipleBlankFill",
+  "Excalidraw": "RiArchiveDrawerLine",
+  "Дневник/Трекеры": "FabBuromobelexperte",
+  "Дневник/Трекеры/Список задач": "RiTaskLine",
+  "База знаний/Информатика/Алгоритмы": "RiComputerFill",
+  "База знаний/Мысли и метакогниция": "FabCodepen",
+  "ob-workplace": "FabGitAlt"
+}

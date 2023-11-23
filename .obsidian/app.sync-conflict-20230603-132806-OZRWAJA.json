@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Хранилище",
+  "showInlineTitle": false,
+  "tabSize": 6
+}

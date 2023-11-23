@@ -1,0 +1,233 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "База знаний/Информатика",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 151
+              }
+            },
+            "orderFields": [
+              "name",
+              "path"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "name",
+                "operator": "is",
+                "enabled": false,
+                "value": ""
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#c3a9fe",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#3805ad",
+                "condition": {
+                  "field": "path",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "9afb35b0-56c2-4086-8127-08a2f6485a6b",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "columns": {
+              "[[База знаний/Информатика/106 Python MOC.md|106 Python MOC]]": {
+                "weight": 0
+              },
+              "[[База знаний/Информатика/Frame.md|Frame]]": {
+                "weight": 1
+              },
+              "[[База знаний/Информатика/Listbox.md|Listbox]]": {
+                "weight": 2
+              },
+              "[[База знаний/Информатика/root.md|root]]": {
+                "weight": 3
+              },
+              "[[База знаний/Информатика/Radiobutton.md|Radiobutton]]": {
+                "weight": 4
+              },
+              "[[База знаний/Информатика/Tkinter.md|Tkinter]]": {
+                "weight": 5
+              },
+              "[[База знаний/Информатика/Text.md|Text]]": {
+                "weight": 6
+              },
+              "[[База знаний/Информатика/Button.md|Button]]": {
+                "weight": 7
+              },
+              "[[База знаний/Информатика/pack.md|pack]]": {
+                "weight": 8
+              },
+              "[[База знаний/Информатика/comand.md|comand]]": {
+                "weight": 9
+              },
+              "[[База знаний/Информатика/place.md|place]]": {
+                "weight": 10
+              },
+              "[[База знаний/Информатика/messagebox.md|messagebox]]": {
+                "weight": 11
+              },
+              "[[База знаний/Информатика/grid.md|grid]]": {
+                "weight": 12
+              },
+              "[[База знаний/Информатика/Label.md|Label]]": {
+                "weight": 13
+              },
+              "[[База знаний/Информатика/Entry.md|Entry]]": {
+                "weight": 14
+              },
+              "[[База знаний/Информатика/Checkbutton.md|Checkbutton]]": {
+                "weight": 15
+              },
+              "[[База знаний/Информатика/bind.md|bind]]": {
+                "weight": 16
+              },
+              "[[База знаний/Информатика/006 Информатика MOC.md|006 Информатика MOC]]": {
+                "weight": 17
+              }
+            },
+            "groupByField": "name",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c4e70008-a6ad-403c-baea-c67e69d7f3ee",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "77033718-ba23-4f7c-aec9-7a2bbef99868",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e4c2aa09-aa0a-44d3-9eb1-11e50490e4e8",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "dc92a6aa-2508-434f-a3a1-3468cff65119",
+      "name": "Untitled project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "08b1ec19-5436-4c0f-b572-fb8af83cdac6",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "8090cfe4-a6ed-48cd-9c21-536dac3a1b90",
+      "name": "расписание"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "dc92a6aa-2508-434f-a3a1-3468cff65119",
+        "view": "77033718-ba23-4f7c-aec9-7a2bbef99868"
+      }
+    ]
+  }
+}

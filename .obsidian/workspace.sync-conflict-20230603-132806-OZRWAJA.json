@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "2e0d1532056e43e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "627b1d34b9c53301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e5e3b22a49320c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ed82d812d5ccc4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd817e28822ba47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Метакогниция.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98387f82ecf08a80",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Хранилище/Ядро базы/Без названия.canvas",
+                "viewState": {
+                  "x": 109.09765665136172,
+                  "y": -205.29549983291122,
+                  "zoom": -1
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80a42f6d34d28bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a5fe3170413261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ffe6c440635ae4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf2caff44e5e1b47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43078259eae19391",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c3b3eebc6b0626f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fe726e2df07d46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8c85aca3908cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045f56acaf8f28e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Метакогниция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "857039ab828c625a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Метакогниция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0534f7d9bdf4333",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d3479a288f1ac16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8186049f2ec7832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Метакогниция.md"
+              }
+            }
+          },
+          {
+            "id": "c0ee91f455a8b629",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-spaced-repetition:Повторить карточки": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false
+    }
+  },
+  "active": "bd817e28822ba47b",
+  "lastOpenFiles": [
+    "Поляризация.md",
+    "Метакогниция.md",
+    "Сахар.md",
+    "Таков путь.md",
+    "Цели 2023.md",
+    "Экзамен английский.md",
+    "Интерфейс взаимодействия.md",
+    "2023-05-14.md",
+    "2023-05-15.md",
+    "2023-05-16.md",
+    "2023-05-17.md",
+    "2023-05-18.md",
+    "2023-05-19.md",
+    "2023-05-19(1).md",
+    "2023-05-30.md",
+    "Хранилище/Ядро базы/Без названия.canvas",
+    "Хранилище/Ядро базы/АиМ/Ранговость.md",
+    "Хранилище/Ядро базы/АиМ/Тег.md",
+    "Хранилище/Ядро базы/Без названия",
+    "Концентрация и внимание.md",
+    "Шаблоны/Шаблон_Трекер идей.md",
+    "База знаний/AI/000_Нейросети.md",
+    "База знаний/AI/Классификация_нейросетей.md",
+    "Шаблоны/Шаблон_Дневник.md",
+    "База знаний/English/Английский.md",
+    "База знаний/English",
+    "База знаний/AI",
+    "~syncthing~2023-05-15.md.tmp",
+    "_Сортировка_/Измерение.md",
+    "Хранилище/Ядро базы/АиМ/Методология/Методология.md",
+    "_Сортировка_/Fleshcards.md",
+    "Шаблоны",
+    "Без названия.canvas",
+    "Календарь/Календарь",
+    "Календарь/Дневник",
+    "Календарь",
+    "База знаний",
+    "Хранилище",
+    "Без названия 1.canvas"
+  ]
+}
