@@ -73,22 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30cf70eb12cf1fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,11 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "30cf70eb12cf1fc1",
+  "active": "a679d2b0af0b6a87",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "Day Planners/Day Planner-20231123.md",
     "Day Planners",
     "_Старт_.md",
@@ -250,16 +236,6 @@
     "База знаний/Интернет/HTTP и HTTPS.md",
     "База знаний/Интернет/DNS.md",
     "База знаний/Интернет/TCP.IP.md",
-=======
-  "active": "3aa0247f5b84fa35",
-  "lastOpenFiles": [
-    "_Старт_.md",
-    "README.md",
-    "Day Planners/Day Planner-20231123.md",
-    "Day Planners",
-    "Проекты/Frontend.md",
-    "ob-workplace/README.md",
->>>>>>> b1702deb8fe1b4eba03e6bd0d6222b256e5406e8
     "База знаний/Интернет/Как работает браузер.md",
     "ob-workplace/README.md",
     "ob-workplace/desktop.ini",
