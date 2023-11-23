@@ -60,9 +60,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a679d2b0af0b6a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30cf70eb12cf1fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 333.5
   },
   "right": {
     "id": "2bbbdfd6973846cf",
@@ -212,14 +238,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3aa0247f5b84fa35",
+  "active": "30cf70eb12cf1fc1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Day Planners/Day Planner-20231123.md",
+    "Day Planners",
     "_Старт_.md",
     "База знаний/Интернет/005 Интернет.md",
     "База знаний/Интернет/HTTP и HTTPS.md",
     "База знаний/Интернет/DNS.md",
     "База знаний/Интернет/TCP.IP.md",
-    "Day Planners/Day Planner-20231123.md",
     "База знаний/Интернет/Как работает браузер.md",
     "ob-workplace/README.md",
     "ob-workplace/desktop.ini",
@@ -233,7 +262,6 @@
     "База знаний/Интернет/desktop.ini",
     "Day Planners/desktop.ini",
     "Шаблоны/desktop.ini",
-    "База знаний/desktop.ini",
     "Excalidraw/Drawing 2023-07-10 12.40.31.excalidraw.md",
     "Excalidraw/Drawing 2023-07-11 16.07.02.excalidraw.md",
     "Excalidraw/Drawing 2023-07-10 10.15.43.excalidraw.md",
@@ -250,8 +278,6 @@
     "База знаний/Мысли и метакогниция/Концентрация и внимание.md",
     "База знаний/Информатика/Tkinter.md",
     "База знаний/Информатика/Label.md",
-    "База знаний/Информатика/messagebox.md",
-    "База знаний/Информатика/root.md",
     "Хранилище/Visual_Studio_Code_1.35_icon.svg.png",
     "Хранилище/RoadMap UXUI Product Designer Skills.png",
     "Хранилище/png-transparent-figma-app-logo-tech-companies-thumbnail.png",
