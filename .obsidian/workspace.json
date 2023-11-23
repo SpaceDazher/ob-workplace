@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Старт_.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Старт_.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Старт_.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Старт_.md"
+                "file": "README.md"
               }
             }
           },
@@ -214,13 +214,13 @@
   },
   "active": "3aa0247f5b84fa35",
   "lastOpenFiles": [
+    "_Старт_.md",
     "База знаний/Интернет/005 Интернет.md",
     "База знаний/Интернет/HTTP и HTTPS.md",
     "База знаний/Интернет/DNS.md",
     "База знаний/Интернет/TCP.IP.md",
     "Day Planners/Day Planner-20231123.md",
     "База знаний/Интернет/Как работает браузер.md",
-    "_Старт_.md",
     "ob-workplace/README.md",
     "ob-workplace/desktop.ini",
     "Проекты/000 Проекты МОС.md",
